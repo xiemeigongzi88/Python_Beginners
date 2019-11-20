@@ -1,0 +1,33 @@
+2.内置数据类型 
+009-050
+
+009. 程序的构成
+
+行连接符：
+a="adhencjdknecjkecj"
+b="frjenfjrkenf\
+mvlkfdmv\
+vgf"
+
+print(b)
+
+010. 对象的基本组成和内存示意图
+
+>>> a=3
+>>> a
+3
+>>> id(3)
+1501126880
+>>> type(3)
+<class 'int'>
+>>> 
+>>> b="I Love you"
+>>> b
+'I Love you'
+>>> id(b)
+2337160974000
+>>> type(b)
+<class 'str'>
+>>> 
+
+
